@@ -57,3 +57,20 @@
 - Satellite also sends most accurate time, which is used by many system (banking, receiver etc)
 ![](assets/receiver-get-most-accurate-time.png)
 - Sometime GPS is not accurate :-) 
+
+# Alternate of GPS
+
+# Military use
+- US denied GPS access data to India in June 1999
+- India developed it's own `navic` (NAVigation with Indian Constellation) GPS system, mostly for areas around India
+    - First launch	1 July 2013
+    - 12 April 2018
+    - Total satellites 9
+    - Cost US$315 million), to March 2017
+    - Coverage
+    ![](assets/coverage-of-navic.png)
+
+
+# Reference 
+https://www.youtube.com/watch?v=wCcARVbL_Dk
+
